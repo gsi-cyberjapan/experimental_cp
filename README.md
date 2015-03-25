@@ -54,7 +54,7 @@ experimental_cp
 
 # デモサイト
 地理院地図
-
+http://maps.gsi.go.jp/?ll=38.27727,140.712204&z=12&base=std&ls=controlpoint&vs=c0j0l0u0
 
 github
 http://gsi-cyberjapan.github.io/experimental_cp/
