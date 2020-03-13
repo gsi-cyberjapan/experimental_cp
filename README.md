@@ -50,8 +50,6 @@ experimental_cp
 交点
 
 
-データは毎週更新予定です。
-
 # デモサイト
 地理院地図
 http://maps.gsi.go.jp/?ll=38.27727,140.712204&z=12&base=std&ls=controlpoint&vs=c0j0l0u0#12/38.277270/140.712204/&base=std&ls=std%7Ccp&disp=11&lcd=cp&vs=c0j0l0u0t0z0r0f0&d=vl
